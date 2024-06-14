@@ -1,3 +1,7 @@
-# Simple Worldbuilding System
+# Panic at the Dojo System
 
-A simple game system for Foundry VTT which allows for flexible definition of Actors and Items to assist with worldbuilding or for running games which do not have a more complete system implementation available.# PatDVTTSystem
+A simple game system for Foundry VTT based off of the Simple Worldbuilding 
+System made by Atropos, and is built for the Panic at the Dojo system created
+by Vel Mini.
+
+# PatDVTTSystem
